@@ -1,10 +1,10 @@
 {
-    "name": "Põlev banaan",
+    "name": "Leegitsev banaan",
     "description": "Pärineb Reunioni saarelt, serveeritud pärast vanillikana (ei soovita)",
     "ingredients": [
-        "Küps banaan",
+        "Banaan",
         "Pruun suhkur",
-        "Põlev alkohol",
+        "Alkohol",
         "Kaneel",
         "Koor"
     ],
@@ -15,5 +15,5 @@
         "Serveeri, süüta alkohol",
         "Raputa ülevalt kaneeli ja avalda tekkinud tulesammastega muljet"
     ],
-    "remarks": ["Ideaalis kasutada rummi"]
+    "remarks": ["Ideaalis kasutada rummi, kuid sobiv ka ükskõik milline muu alkohol, mis süttib."]
 }
