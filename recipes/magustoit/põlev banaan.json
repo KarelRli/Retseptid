@@ -1,0 +1,19 @@
+{
+    "name": "Põlev banaan",
+    "description": "Pärineb Reunioni saarelt, serveeritud pärast vanillikana (ei soovita)",
+    "ingredients": [
+        "Küps banaan",
+        "Pruun suhkur",
+        "Põlev alkohol",
+        "Kaneel",
+        "Koor"
+    ],
+    "instructions": [
+        "Pane banaan hetkeks mikrolaineahju, et see oleks pehme",
+        "Lõika banaani peale rennilaadne süvik, mis täita suhkruga",
+        "Vala suhkru peale alkohol",
+        "Serveeri, süüta alkohol",
+        "Raputa ülevalt kaneeli ja avalda tekkinud tulesammastega muljet"
+    ],
+    "remarks": ["Ideaalis kasutada rummi"]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Pähklipasta",
+    "description": "Kõlab kahtlaselt, aga on tõesti väga hea.",
+    "ingredients": [
+        "Pasta",
+        "Pähklivõi",
+        "Punane sibul",
+        "Küüslauk",
+        "Seesamiseemned",
+        "Maapähklid",
+        "Oliiviõli",
+        "Tšilli",
+        "Paprikapulber",
+        "Sojakaste",
+        "Äädikas",
+        "Suhkur",
+        "Peet",
+        "Sool"
+    ],
+    "instructions": [
+        "Hakka pastat keetma",
+        "Rösti pannil umbes minut aega seesamiseemneid ja maapähkleid, pane kaussi ja jäta serveerimiseks",
+        "Prae sibul ja pane kõrvale",
+        "Prae küüslauk oliiviõliga ja lisa tšilli",
+        "Lisa teelusikatäis paprikapulbrit",
+        "Lisa supilusikatäis sojakastet, teelusikatäis äädikat",
+        "Lisa kamakas pähklivõid ja sega läbi (kui tahad lisa veidi vett, et kaste oleks vedelam)",
+        "Lisa veidi suhkrut",
+        "Sega veidi kõva pasta tekkinud kastmega kokku (valmib edasi) ja lisa ka sibul",
+        "Lõika peedist võimalikult õhukesed viilud, soola ja prae krõbedaks",
+        "Serveeri pasta koos peediviiludega, raputa peale seesamiseemnete ja maapähklitepuru",
+        "Võibolla natuke sidrunimahla?"
+    ],
+    "remarks": [
+        "Musta värvi pasta näeb peetidega eriti hea välja",
+        "Võib kasutada ka riisinuudleid",
+        "Tükkidega maapähklivõi on eriti hea"
+    ]
+}

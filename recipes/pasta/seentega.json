@@ -1,0 +1,35 @@
+{
+    "name": "Seenepasta",
+    "description": ",,Parim pasta, mida ma kunagi söönud olen\" - Lola",
+    "ingredients": [
+        "Pasta",
+        "Seened",
+        "Punane sibul",
+        "Küüslauk",
+        "Või",
+        "Koor",
+        "Kirsstomatid",
+        "Oliiviõli",
+        "Puljongikuubik",
+        "Tšillihelbed",
+        "Pipar",
+        "Sool",
+        "Petersell",
+        "Riivjuust",
+        "Sidrunimahl"
+        
+    ],
+    "instructions": [
+        "Prae sibul",
+        "Alusta pasta keetmist (soolavesi + tükike puljongikuubikut)",
+        "Prae seened (pigem mitu väikest pannitäit kui üks suur, muidu jäävad seened vesiseks)",
+        "Lisa seentele pipar, tšillihelbed ja koor",
+        "Kui pasta on valmis, lisa pannile ja sega läbi",
+        "Valmista kirsstomatid: prae 2min ilma keeramata pigem kõrgel kuumusel oliiviõliga, lisa hakitud küüslauk ja sool, sega ja prae mõni minut veel",
+        "Valmista segu värskest petersellist, soolast, oliiviõlist (ja sidrunikoorest?)",
+        "Serveeri pasta koos tomatitega, pane peale riivjuustu, äsjatehtud petersellisegu ja pigista peale sidrunimahla"
+    ],
+    "remarks": [
+        "Šampinjonidega on väga hea"
+    ]
+}

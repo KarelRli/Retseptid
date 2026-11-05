@@ -1,0 +1,23 @@
+{
+    "name": "Tuunikalapasta",
+    "description": "Minu esimene pastaretsept. Kui on kiire piisab ka esimesest kolmest koostisosast.",
+    "ingredients": [
+        "Pasta",
+        "Tuunikala",
+        "Punane sibul",
+        "Küüslauk",
+        "Koor",
+        "Oliivid",
+        "Tšilli",
+        "Petersell",
+        "Riivjuust",
+        "Sidrunimahl"
+    ],
+    "instructions": [
+        "Prae sibul ja küüslauk (võib lisada rummi)",
+        "Keeda pasta",
+        "Sega pasta, sibul, küüslauk, tuunikala, koor ja oliivid (tükkidena) kokku",
+        "Lisa tšilli, petersell, riivjuust ja sidrunimahl"
+    ],
+    "remarks": ["Kasuta soovitatavalt tagliatellet", "Oliivide ja tuunikala tõttu pole soola peaaegu vaja pannagi"]
+}

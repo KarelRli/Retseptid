@@ -1,0 +1,23 @@
+{
+    "name": "Rummipuder",
+    "description": "Parem versioon tavalisest kaerahelbepudrust",
+    "ingredients": [
+        "Kaerahelbed",
+        "Piim",
+        "Või",
+        "Rumm",
+        "Suhkur",
+        "Sool"
+    ],
+    "instructions": [
+        "Pane potti vesi ja piim (umbes 60% piima ja 40% vett) ning lase keema",
+        "Lisa piisavalt kaerahelbeid, et supilusikaga põhjast tõmmates jääb lusikas enam-vähem helbeid täis",
+        "Lisa sool",
+        "Lisa suhkur",
+        "Lisa natuke võid",
+        "Lisa sorts rummi",
+        "Keeda kuni puder on paks",
+        "Pane tulemus taldrikule ja peale veel võid"
+    ],
+    "remarks": []
+}

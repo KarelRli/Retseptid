@@ -1,0 +1,15 @@
+{
+    "name": "Quesadilla",
+    "description": "Toitev ja lihtsalt suurepärane",
+    "ingredients": [
+        "Tortilla",
+        "Mozzarella"
+    ],
+    "instructions": [
+        "Võta kaks tortillat ja tee pannil soojaks",
+        "Pane üks tortilla keset panni, lisa peale juust ja pane teine tortilla peale",
+        "Prae mõlemalt poolt kuldpruuniks",
+        "Lõika neljaks ja naudi"
+    ],
+    "remarks": []
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Retseptid</title>
+
+    <!-- Font: Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- JavaScript -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main class="page">
+        <div class="search-area">
+            <div class="search-box" id="search-box">
+                <input type="text" id="ingredient-search" placeholder="Otsi koostisainet..." autocomplete="off">
+                <ul id="search-suggestions" class="search-suggestions"></ul>
+            </div>
+            <div id="active-filters" class="active-filters"></div>
+        </div>
+        <div id="categories" class="categories"></div>
+    </main>
+</body>
+</html>
