@@ -8,12 +8,14 @@ async function loadCategories() {
 
 async function loadCategoryRecipes(category) {
     const response = await fetch(`recipes/${encodeURIComponent(category.toLowerCase())}/index.json`);
+    if (!response.ok) throw new Error(`Failed to load index for "${category}": ${response.status}`);
     const data = await response.json();
     return data.all_recipes;
 }
 
 async function loadRecipe(recipeName, category) {
     const response = await fetch(`recipes/${encodeURIComponent(category.toLowerCase())}/${encodeURIComponent(recipeName)}.json`);
+    if (!response.ok) throw new Error(`Failed to load recipe "${recipeName}" in "${category}": ${response.status}`);
     return response.json();
 }
 
@@ -242,9 +244,13 @@ async function renderPage() {
         const recipeNames = await loadCategoryRecipes(category);
         const recipes = [];
         for (const name of recipeNames) {
-            const recipe = await loadRecipe(name, category);
-            allRecipes.push({ recipe, category });
-            recipes.push(recipe);
+            try {
+                const recipe = await loadRecipe(name, category);
+                allRecipes.push({ recipe, category });
+                recipes.push(recipe);
+            } catch (err) {
+                console.error(err);
+            }
         }
         htmlParts.push(renderCategory(category, recipes));
     }
